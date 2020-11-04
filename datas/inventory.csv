@@ -1,0 +1,7 @@
+Name,Expiry,Disease,Medicine ID,Type,age group,quantity
+Paracetamol,21/11/2020,fever,2352214,Anticeptic,For Children,22
+rabypur,22/11/2020,rabies,143243,Syringe,For Children,12
+penicilin,12/4/2021,pain killer,4525353,Antidode,For adults,23
+naproxen,21/12/2020,headache,34781249438,Anticeptic,For adults,21
+indomethacin,23/12/2020,headache,1341,Anticeptic,For adults,14
+,,,,Anticeptic,,
