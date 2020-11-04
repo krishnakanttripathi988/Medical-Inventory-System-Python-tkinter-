@@ -223,7 +223,6 @@ def searchmed():
                 label.grid(row = r+1, column = c)
                 c += 1
         except:
-            #label = tkinter.Label(searchmed_window, text = "No entry found kindly check spelling\n or add the entry first").grid(row = r+1, column = 0, columnspan = 6)
             messagebox.showwarning("warning","No entry found kindly check spelling\n or add the entry first")
     search_btn = ttk.Button(searchmed_window, text = "Search", command = action).grid(row = 0, column = 3)
     searchmed_window.mainloop()
